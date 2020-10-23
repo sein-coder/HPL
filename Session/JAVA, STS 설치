@@ -1,0 +1,33 @@
+## JAVA 설치 (1.8.0_201)
+
+1. NEXT버튼 클릭
+
+   ![001](C:\Users\tpdls\Desktop\HPL\STS,JAVA설치\001.JPG)
+
+2. NEXT버튼 클릭
+
+   ![002](C:\Users\tpdls\Desktop\HPL\STS,JAVA설치\002.JPG)
+
+3. CLOSE 끝
+
+   ![003](C:\Users\tpdls\Desktop\HPL\STS,JAVA설치\003.JPG)
+
+4. 환경 변수 설정을 위해 내 PC 오른쪽 클릭 -> 속성 -> 고급 시스템 설정 -> 환경 변수로 들어간다
+
+   ![004](C:\Users\tpdls\Desktop\HPL\STS,JAVA설치\004.JPG)
+
+   ![005](C:\Users\tpdls\Desktop\HPL\STS,JAVA설치\005.JPG)
+
+   ![006](C:\Users\tpdls\Desktop\HPL\STS,JAVA설치\006.JPG)
+
+5. 환경변수창에서 시스템 변수의 새로 만들기를 통해서 아래 그림과 같이 CLASSPATH와 JAVA_HOME을 만들어준다.
+
+   ![007](C:\Users\tpdls\Desktop\HPL\STS,JAVA설치\007.JPG)
+
+   ![008](C:\Users\tpdls\Desktop\HPL\STS,JAVA설치\008.JPG)
+
+   ![009](C:\Users\tpdls\Desktop\HPL\STS,JAVA설치\009.JPG)
+
+6. 마지막으로 시스템 변수에서 Path를 더블 클릭해서 환경 변수를 편집하는데 새로만들기를 클릭해서 %JAVA_HOME%\bin 을 만들어 준다
+
+   ![010](C:\Users\tpdls\Desktop\HPL\STS,JAVA설치\010.JPG)
